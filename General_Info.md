@@ -2,7 +2,7 @@
 
 ## *Where I am from*
 
-I am from _Swansea_ Illinois_ which is about 15 minutes away from St. Louis.
+I am from __Swansea_ Illinois__ which is about 15 minutes away from St. Louis.
 
 ### Where do I go to school?
 
