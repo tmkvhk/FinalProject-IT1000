@@ -27,7 +27,8 @@ function fizzbuzz() {
 </div>
 </body>
 
-</html>```
+</html>
+```
 
 ### This was one of coding assignment from earlier in the year. It is a cylinder coating estimator.
 ```python
