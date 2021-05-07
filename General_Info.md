@@ -2,11 +2,11 @@
 
 ## *Where I am from*
 
-I am from __Swansea_ Illinois__ which is about 15 minutes away from St. Louis.
+I am from __Swansea__ __Illinois__ which is about 15 minutes away from St. Louis.
 
 ### Where do I go to school?
 
-I am currently finishing my freshman year at the University of Missouri.
+I am currently finishing my freshman year at the __University of Missouri__.
 
 #### What are you studying?
 
